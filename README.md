@@ -53,7 +53,6 @@ This CMS is designed to offer a simple interface for users to manage website con
    ├── users_add.php
    ├── users_edit.php
    ├── logout.php
-   ```
 
 ## Usage
 
@@ -63,8 +62,3 @@ This CMS is designed to offer a simple interface for users to manage website con
 ## Known Issues/Limitations
 - No validation is performed on email format during user addition.
 - SHA-1 is used for password hashing, which is considered weak. Consider upgrading to a more secure hashing algorithm like bcrypt.
-
-## License
-This project is licensed under the MIT License.
-
-You can copy and paste this into your `README.md` file in VS Code. It should render properly in Markdown format. Let me know if you'd like to modify anything!
